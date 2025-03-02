@@ -1,5 +1,5 @@
 import cv2
-#C:\Users\vatsa\Downloads\OneDrive\Desktop\openCV\test.py
+
 # Load the image
 image = cv2.imread('original_image1.jpeg')
 
